@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
